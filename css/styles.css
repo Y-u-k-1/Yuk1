@@ -1,0 +1,190 @@
+body {
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.top {
+    padding-top: 100px;
+    margin: 0 auto 100px;
+    background-color: #cadaf0;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 100px auto 0 auto;
+    color: #65c38c;
+}
+
+.H2 {
+    font-size: 2.5rem;
+    color: #65c38c;
+}
+
+h2 {
+    color: #65c38c;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color:#34cccc;
+}
+
+.Mountain {
+    width: 700px; height: 350px;
+   
+}
+
+.Bottom-Cloud {
+    position: absolute;
+    width: 225px; height: 160xpx;
+    top: 300px;
+    left: 125px;
+    color: #f2f2f2f2;
+
+}
+
+.Top-Cloud {
+   position: absolute;
+    width: 225px; height: 160xpx;
+    right: 150px;
+    top: 75px;
+    color: #f2f2f2f2;
+}
+
+.div {
+    line-height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.Gym {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    border-radius: 25%;
+}
+
+.Programming {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.My-Photo {
+    width: 300px;
+    height: 300px;
+    border-radius: 30%;
+}
+.Skill {
+    width: 300px;
+    height: 300px;
+    border-radius: 25%;
+}
+
+p {
+    font-family: 'flow circular', cursive;
+    font-style: bold;
+    color: rgb(53, 53, 53)
+}
+
+.Bottom-Container {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.Contact {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.Ski {
+    width: 50%;
+    margin: 75px auto;
+    text-align: right;
+    background-color: #ffffff;
+    
+    
+}
+
+.Skil {
+    width: 50%;
+    margin: 75px auto;
+    text-align: left;
+    background-color: #ffffff;
+    
+    
+}
+
+.Intro {
+    width: 50%;
+    margin: 50px auto;
+}
+
+hr {
+    border: dotted #91d8af 5px;
+    border-bottom: none;
+    width: 5%;
+}
+
+.Foot {
+    width: 50%;
+    margin: 0px auto 50px;
+}
+
+.copy {
+    font-size: 0.7rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Touch {
+    margin-top: 50px;
+}
+
+.btn {
+    background: #65c38c;
+    background-image: -webkit-linear-gradient(top, #65c38c, #357a6a);
+    background-image: -moz-linear-gradient(top, #65c38c, #357a6a);
+    background-image: -ms-linear-gradient(top, #65c38c, #357a6a);
+    background-image: -o-linear-gradient(top, #65c38c, #357a6a);
+    background-image: linear-gradient(to bottom, #65c38c, #357a6a);
+    -webkit-border-radius: 14;
+    -moz-border-radius: 14;
+    border-radius: 14px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #5dab7c;
+    background-image: -webkit-linear-gradient(top, #5dab7c, #2b594e);
+    background-image: -moz-linear-gradient(top, #5dab7c, #2b594e);
+    background-image: -ms-linear-gradient(top, #5dab7c, #2b594e);
+    background-image: -o-linear-gradient(top, #5dab7c, #2b594e);
+    background-image: linear-gradient(to bottom, #5dab7c, #2b594e);
+    text-decoration: none;
+  }
+
+  .Bottom-Container {
+    background-color: #cadaf0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin:0
+  }
+
+  .Footer-Link {
+    color:#2b6356;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+
+  .Footer-Link:hover {
+    color: #ffffff;
+  }
